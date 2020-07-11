@@ -16,7 +16,7 @@
 
       1. Sleep 🛌
       2. Eat 🍽️
-      3. Gaming 🎮. In the Past, CSGO: i have reach Global Elite and Faceit Lv10 :ok_hand: 🙃🙃🙃🙃.
+      3. Gaming 🎮. In the Past, CSGO: i have reach Global Elite and Faceit Lv10 👌🙃🙃🙃🙃👌.
       4. Pooping 💩
       5. Programing but still noob.
   
