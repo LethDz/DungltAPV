@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**DungltAPV/DungltAPV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DungltAPV/DungltAPV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### I am Dzung :trollface:. Currently, I am a time consumer with no purpose :grin:.
 
@@ -22,4 +22,5 @@
 - 📫 How to reach me: lethanhdung1110@gmail.com
 - 😄 Pronouns: HE HE HE HE HE
 - ⚡ Fun fact: HE HE HE HE
---> End.
+
+End.
