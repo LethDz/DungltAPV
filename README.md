@@ -5,5 +5,4 @@
 
 ### I am Dzung :trollface:. Currently, I am a time consumer with no purpose :grin:.
 ### I am a full-stack engineer :D
-
-End.
+[My Linkedin](https://www.linkedin.com/in/lethdz)
